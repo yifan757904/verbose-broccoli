@@ -1,0 +1,17 @@
+{
+	"ulid": "01K494K2XP6Q09BWZHV540D9CS",
+	"minTime": 1756937200333,
+	"maxTime": 1756944000000,
+	"stats": {
+		"numSamples": 21183,
+		"numSeries": 921,
+		"numChunks": 921
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01K494K2XP6Q09BWZHV540D9CS"
+		]
+	},
+	"version": 1
+}
